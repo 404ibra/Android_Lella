@@ -16,20 +16,14 @@ Technologies I actively use in Android Version: Android Studio, Flutter, Firebas
 
 # Lella: Language Learning Images from within the Application (Device: Google Pixel 6 Pro Android version Upside Down Cake)
 
-![Home Page](https://github.com/404ibra/Lella_Android/assets/116425964/e3d006ae-3474-419b-83a1-5f74a50ae711)
-![Article Preview Page](https://github.com/404ibra/Lella_Android/assets/116425964/6d34a331-9b25-4776-bd67-0fbb3bd9c9c7)
 
 
-![Article Page when Listening (Reading words color changing orange)](https://github.com/404ibra/Lella_Android/assets/116425964/1675f68b-d634-4bb4-827d-34b376253c02)
-![Article Page when click on a word you don't know](https://github.com/404ibra/Lella_Android/assets/116425964/451cfa8c-09f0-4dea-81da-84fad8c6a6ba)
 
-
-![Quiz Dialog](https://github.com/404ibra/Lella_Android/assets/116425964/a356fa90-6b9a-4b45-9491-30a455e972dd)
-![Quiz Completed Dialog](https://github.com/404ibra/Lella_Android/assets/116425964/e3bd97dd-b935-428c-9698-6ff667f59284)
-
-
-![Archive Page saved words and Articles are displayed here](https://github.com/404ibra/Lella_Android/assets/116425964/6e05f5c5-18ec-436b-9b8f-7465e1be7c28)
-![Profile Page](https://github.com/404ibra/Lella_Android/assets/116425964/8f51e6fa-45e0-475c-a357-83a42ad74bd2)
-
-
-![Signup Select Native Language](https://github.com/404ibra/Lella_Android/assets/116425964/3ebbce54-c1b7-4de7-8e91-173ffa161f6f)
+![Home Page](https://github.com/404ibra/Android_Lella/assets/116425964/06c7cd60-dd00-4a34-ac87-83b33daab45e)
+![Article Preview Page](https://github.com/404ibra/Android_Lella/assets/116425964/cf2a8262-7947-429b-bb86-55770c127f8b)
+![Article Page when Listening (Reading words color changing orange)](https://github.com/404ibra/Android_Lella/assets/116425964/6a43935e-05a6-4bb3-8e80-0cc2bc12db01)
+![Quiz Dialog](https://github.com/404ibra/Android_Lella/assets/116425964/ad947d3b-a51d-47a4-95ef-8df3201c52ff)
+![Quiz Completed Dialog](https://github.com/404ibra/Android_Lella/assets/116425964/271207c4-000a-4016-a264-6582fcd5cc63)
+![Archive Page saved words and Articles are displayed here](https://github.com/404ibra/Android_Lella/assets/116425964/5845c73c-f062-4daf-9a41-6a2c10d3a9b1)
+![Profile Page](https://github.com/404ibra/Android_Lella/assets/116425964/0371988f-0ec8-422a-bf39-fb86db2be19d)
+![Signup Select Native Language](https://github.com/404ibra/Android_Lella/assets/116425964/8863f5ee-3813-4bbd-b9d6-d26c4349fd91)
